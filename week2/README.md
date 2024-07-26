@@ -6,6 +6,7 @@ This repository contains the programming assignments for Week 2 of Andrew Ng's "
 #### Assignments Overview
 
 [1. Python_Basics_with_Numpy.ipynb](https://github.com/HammadFahimS/Neural-Networks-and-Deep-Learning/blob/main/week2/Python_Basics_with_Numpy.ipynb)
+
 [2. Logistic_Regression_with_a_Neural_Network_mindset.ipynb](https://github.com/HammadFahimS/Neural-Networks-and-Deep-Learning/blob/main/week2/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
 
 ### 1. Python Basics with Numpy
