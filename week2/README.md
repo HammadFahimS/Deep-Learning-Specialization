@@ -5,8 +5,8 @@ This repository contains the programming assignments for Week 2 of Andrew Ng's "
 
 #### Assignments Overview
 
-1. **Python_Basics_with_Numpy.ipynb**
-2. **Logistic_Regression_with_a_Neural_Network_mindset.ipynb**
+1. [Python_Basics_with_Numpy.ipynb](https://github.com/HammadFahimS/Neural-Networks-and-Deep-Learning/blob/main/week2/Python_Basics_with_Numpy.ipynb)
+2. [Logistic_Regression_with_a_Neural_Network_mindset.ipynb](https://github.com/HammadFahimS/Neural-Networks-and-Deep-Learning/blob/main/week2/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
 
 ### 1. Python Basics with Numpy
 This Jupyter notebook introduces fundamental Python programming concepts and the NumPy library, which is crucial for scientific computing in Python. It provides a hands-on approach to understanding vectors and matrices operations, broadcasting, and other advanced features of NumPy that are extensively used in data science and deep learning.
