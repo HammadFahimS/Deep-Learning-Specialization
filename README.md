@@ -69,4 +69,3 @@ This educational content is shared for personal and non-commercial use. Please r
 
 ---
 
-This README file is designed to be both informative and easy to navigate, ensuring that anyone visiting your repository can understand the purpose of the repository and how to make use of it effectively. Adjust the GitHub URL and any specific details to match your actual repository setup and personal preferences.
