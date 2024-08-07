@@ -1,4 +1,4 @@
-# Deep Neural Network Assignments - Implementation and application
+# Deep Neural Network Assignments - Implementation and Application
 
 ## Overview
 
