@@ -1,4 +1,4 @@
-# Deep Neural Network Assignments - Week 4
+# Deep Neural Network Assignments - Implementation and application
 
 ## Overview
 
