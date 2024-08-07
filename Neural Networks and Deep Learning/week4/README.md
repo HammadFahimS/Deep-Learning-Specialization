@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the implementation of the first coding assignment for Week 4 of the *Neural Networks and Deep Learning* course by *Deeplearning.AI*. The assignment focuses on building a deep neural network from scratch, step by step, to gain a deeper understanding of the foundational concepts of neural network architectures.
+This repository contains the implementation of the coding assignments for Week 4 of the *Neural Networks and Deep Learning* course by *Deeplearning.AI*. The assignment focuses on building a deep neural network from scratch, step by step, to gain a deeper understanding of the foundational concepts of neural network architectures.
 
 ## Objectives
 
