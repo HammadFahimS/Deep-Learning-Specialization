@@ -1,4 +1,4 @@
-### Planar Data Classification with One Hidden Layer
+# Planar Data Classification with One Hidden Layer
 
 #### Overview
 This repository contains the programming assignment for Week 3 of Andrew Ng's "Neural Networks and Deep Learning" course, part of the Deep Learning Specialization on Coursera. This assignment, titled "Planar Data Classification with One Hidden Layer," is designed to demonstrate the capability of a simple neural network to classify data that is not linearly separable.
