@@ -21,9 +21,3 @@ This repository contains the materials and assignments for **Week 1** of the **"
 - Understand and implement gradient checking to debug backpropagation.
 - Explore weight initialization techniques (e.g., random initialization, He initialization) to improve the performance and convergence speed of deep neural networks.
 - Apply regularization methods to prevent overfitting and enhance model robustness.
-
-## Usage
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/Deep-Learning-Specialization.git
