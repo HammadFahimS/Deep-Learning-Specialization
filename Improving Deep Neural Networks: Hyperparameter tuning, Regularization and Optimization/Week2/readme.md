@@ -18,9 +18,3 @@ This repository contains the materials and assignments for **Week 2** of the **"
   - Adam Optimization
 - Compare and analyze the performance of different optimization methods.
 - Improve the convergence speed and stability of training deep neural networks.
-
-## Usage
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/Deep-Learning-Specialization.git
